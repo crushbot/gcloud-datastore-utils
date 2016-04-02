@@ -1,0 +1,18 @@
+{
+  "name": "gcloud-node-datastore-utils",
+  "version": "0.0.1",
+  "description": "Utils method to create, update, read & delete gcloud datastore entities",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fashionm/gcloud-datastore-utils.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^6.0.0",
+    "babel-preset-es2015-node5": "^1.2.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.7.2",
+    "eslint": "^2.5.3",
+    "eslint-config-airbnb": "^6.2.0",
+  }
+}
