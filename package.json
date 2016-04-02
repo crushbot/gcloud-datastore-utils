@@ -1,6 +1,6 @@
 {
   "name": "gcloud-node-datastore-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Utils method to create, update, read & delete gcloud datastore entities",
   "repository": {
     "type": "git",
